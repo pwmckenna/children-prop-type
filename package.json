@@ -1,5 +1,5 @@
 {
-  "name": "children-prop-types",
+  "name": "children-prop-type",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pwmckenna/children-prop-types.git"
+    "url": "git+https://github.com/pwmckenna/children-prop-type.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pwmckenna/children-prop-types/issues"
+    "url": "https://github.com/pwmckenna/children-prop-type/issues"
   },
-  "homepage": "https://github.com/pwmckenna/children-prop-types#readme",
+  "homepage": "https://github.com/pwmckenna/children-prop-type#readme",
   "dependencies": {
     "prop-types": "^15.5.8"
   },

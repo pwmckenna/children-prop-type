@@ -1,10 +1,10 @@
-# children-prop-types
+# children-prop-type
 
 http://stackoverflow.com/a/42122662
 
 ## usage
 ```es6
-import children from 'children-prop-types';
+import children from 'children-prop-type';
 class MyComponent from Component {
   static propTypes = {
     children: children(PropTypes.node) 
